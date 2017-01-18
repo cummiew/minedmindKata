@@ -4,7 +4,18 @@
 #  	puts i += 1
 # # end
 
-i=0
-until i==100
- 	puts i += 1
+# until i==4 
+# 	 i==100
+# 	5="brocolii"
+# 	else 
+# 	puts i += 1
+# end
+
+# end
+
+# i=0
+
 end
+
+
+do
