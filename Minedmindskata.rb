@@ -1,6 +1,6 @@
 	def minedmindskata(parameter1)
  		if parameter1 == 3
-			"Mined"
+			"Mined"ru
 		elsif parameter1 == 5
 			"Minds"
 		else
@@ -10,6 +10,6 @@
 
 	end
 
-	
+
 
 

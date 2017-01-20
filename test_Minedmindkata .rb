@@ -25,4 +25,12 @@ class Simplicity < Minitest::Test
 		assert_equal("Minds",minedmindskata(5))
 	end
 
+
+	def test_function_returns_1
+		assert_equal("minedminds",minedmindskata(15))
+
 end
+
+
+	
+
