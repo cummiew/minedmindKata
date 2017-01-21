@@ -11,7 +11,7 @@ def random_pairs(array)
 
 	end
 
-	array
+	my_array
 end
 
 print random_pairs(letters)
