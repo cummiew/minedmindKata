@@ -1,4 +1,4 @@
-letters = ["a","b","c","d","e","f","g"]
+letters = ["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q"]
 
 def random_pairs(array)
 	array.sort!
@@ -15,6 +15,7 @@ def random_pairs(array)
 end
 
 print random_pairs(letters)
+
 
 
 

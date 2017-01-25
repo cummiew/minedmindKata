@@ -16,6 +16,4 @@ class Test_minedminds_array_kata < Minitest::Test
 
    end
 
-
-
  end

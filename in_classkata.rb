@@ -41,7 +41,8 @@ def minedmines_array
 	 		end
 
 	end
-	 	my_array
+	 	
+
 
 
 
